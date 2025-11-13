@@ -35,6 +35,7 @@ By the end of this session, learners will be able to:
 | Ignite 2025 Next Steps | [https://aka.ms/Ignite25-Next-Steps](https://aka.ms/Ignite25-Next-Steps?ocid=ignite25_nextsteps_cnl) | Links to all repos for Ignite 2025 Sessions |
 | Azure AI Foundry Community Discord | [![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://aka.ms/AIFoundryDiscord-Ignite25)| Connect with the Azure AI Foundry Community! |
 | Learn at Ignite | [https://aka.ms/LearnAtIgnite](https://aka.ms/LearnAtIgnite?ocid=ignite25_nextsteps_github_cnl) | Continue learning on Microsoft Learn |
+| Azure AI Foundry SDK | [https://aka.ms/aifoundrysdk](https://aka.ms/aifoundrysdk) | Explore the Azure AI Foundry SDK Client Libraries
 
 ## Content Owners
 
